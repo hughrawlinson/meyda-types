@@ -1,0 +1,20 @@
+{
+  "name": "@types/meyda",
+  "version": "1.0.0",
+  "description": "",
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughrawlinson/meyda-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughrawlinson/meyda-types/issues"
+  },
+  "homepage": "https://github.com/hughrawlinson/meyda-types#readme",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
